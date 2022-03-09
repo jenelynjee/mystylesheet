@@ -1,0 +1,27 @@
+body
+{background:black;}
+
+.white
+
+{
+
+width:1300px;
+height: 700px;
+background: white;
+margin: 0 auto;
+margin-top: 100px;
+
+}
+
+.circle
+{
+
+position: absolute;
+top: 380px;
+left: 610px;
+background:#c10000;
+width: 300px;
+height: 300px;
+border-radius:100%;
+
+}
